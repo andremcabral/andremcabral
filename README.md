@@ -1,4 +1,4 @@
-## Oi, me chamo Andre Maurício!
+## Olá!
 
 - 🔭 Atualmente me ocupando apenas com estudos e buscando uma colocação no mercado
 - 🌱 Buscando conhecimento em Python, PHP, HTML com CSS e JS
