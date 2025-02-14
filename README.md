@@ -1,6 +1,6 @@
 ## Olá!
 
-- 🔭 Atualmente me ocupando apenas com estudos e buscando uma colocação no mercado
+- 🔭 Atualmente presto serviços de programação Python, VBA e tratamento de dados além de manter os estudos e buscando uma nova colocação no mercado
 - 🌱 Buscando conhecimento em Python e VBA
 - 📫 Meu e-mail é: andremcabral@gmail.com e meu linkedin é https://www.linkedin.com/in/andremcabral/
 - 😄 Ele/Dele
